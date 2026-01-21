@@ -1,0 +1,27 @@
+body{
+    background-color: #2c5cdd;
+}
+#heading{
+    color:yellow;
+    text-align:center;
+}
+#btn{
+    text-align:center;
+    margin: 100px;
+    
+}
+#rock,#paper,#scissor{
+    display:inline-block;
+    height: 40px;
+    width: 60px;
+    margin: 30px;;
+}
+#rock{
+    background-color:red;
+}
+#paper{
+    background-color: orange;
+}
+#scissor{
+    background-color: lightcoral;
+}
