@@ -30,17 +30,16 @@ A classic, interactive **Rock Paper Scissors** game built for the web. Test your
 4. **Win the match**: Be the first to reach **5 points** to secure the victory!
 
 ## 📸 Sneak Peek
-
-> **Note to self:** Replace the URL below with an actual screenshot of your game!
-> `<img src="https://via.placeholder.com/800x400.png?text=Gameplay+Screenshot" alt="Game Screenshot" width="100%">`
-
+<p align="center">
+   <img width="75%" src="https://github.com/user-attachments/assets/b959c3ef-c9ed-496c-b1fb-9a5fd267a286" alt="Game Screenshot"/>
+</p>
 ## 🚀 Getting Started
 
 To run this project locally on your machine, simply follow these steps:
 
 1. **Clone the repository** (or download the ZIP file):
    ```bash
-   git clone [https://github.com/your-username/rock-paper-scissors.git](https://github.com/your-username/rock-paper-scissors.git)
+   git clone https://github.com/Rudra-RNC/RockPaperScissor.git
     ```
 2. **Navigate to the project directory**:   
    ```bash
@@ -53,17 +52,12 @@ To run this project locally on your machine, simply follow these steps:
       open index.html
       ```
 
-## 🛠️ Technologies Used
--**HTML5:** For structuring the game interface.
--**CSS3:** For the layout, typography (Georgia serif), custom button styling, and the aesthetic linear gradient background.
--**Vanilla JavaScript:** For the core game logic, randomized computer choices, scorekeeping, and DOM manipulation.
-
 ## 👨‍💻 Author
 **Rudra Kumar** - [GitHub](https://github.com/Rudra-RNC) | [LinkedIn](https://www.linkedin.com/in/rudra-kumar-cs/) | [Twitter/X](https://x.com/RudraKumar65755)
 
 
 ## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](MIT_License.txt) file for details.
 
 ## 🙌 Contributing
 Contributions are welcome! If you have suggestions for improvements or want to add new features, please feel free to fork the repository and submit a pull request.
